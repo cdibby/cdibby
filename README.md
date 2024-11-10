@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdibby
-- 👀 I’m interested in pytghon
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me email
